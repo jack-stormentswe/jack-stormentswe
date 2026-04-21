@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=bran-chembah-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bran-chembah-tech" />
 </p>
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
   </a>
